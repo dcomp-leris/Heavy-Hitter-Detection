@@ -31,7 +31,6 @@ swLimitAnt2LP = int(globalLimit/nSwitches)
 swLimitAnt3LP = int(globalLimit/nSwitches)
 mmpe = 0 #Média Móvel Ponderada Exponencialmente
 
-   
 def funcaoCoordenadorA(hash,total,switch,switchLimit,fim):
 
     global globalLimit
